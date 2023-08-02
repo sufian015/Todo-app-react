@@ -1,0 +1,7 @@
+child theke parents e data anar steps,
+
+1. parents e callback function create krte hbe
+2. function ta props er maddhome pathate hbe
+3. child theke props ta receive krte hbe..
+
+Then props ta ami amr kaje use krte parbo...
